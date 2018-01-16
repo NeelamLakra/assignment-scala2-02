@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/scala-week2-02/src/main/scala/edu/knoldus/payment.scala:13:32: Invalid literal number[0m
+[0m[[0m[31merror[0m] [0m[0m  case "NetBanking" =>amount + 5package edu[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/scala-week2-02/src/main/scala/edu/knoldus/payment.scala:9:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef amount(mode:String,amount:Int):Float={[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
