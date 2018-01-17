@@ -40,6 +40,8 @@ object Operation extends PersonClassification with App {
      s" attendance is: ${strength.nextInt(50)}"
     }
 
+  def blogger()
+
   log.info(response(Gamer()))
   log.info(response(Trainer()))
 }
